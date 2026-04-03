@@ -1,0 +1,39 @@
+:root {
+	/* Fonts */
+	--font-family-base: 'Inter', sans-serif;
+	--font-family-heading: 'Playfair Display', serif;
+
+	/* Type scale */
+	--font-size-sm: 14px;
+	--font-size-md: 16px;
+	--font-size-lg: 18px;
+	--font-size-xl: 20px;
+	--font-size-2xl: 24px;
+	--font-size-3xl: 32px;
+	--font-size-4xl: 40px;
+	--font-size-5xl: 56px;
+
+	/* Line heights */
+	--line-height-tight: 1.1;
+	--line-height-heading: 1.2;
+	--line-height-base: 1.5;
+
+	/* Font weights */
+	--font-weight-regular: 400;
+	--font-weight-medium: 500;
+	--font-weight-semiBold: 600;
+	--font-weight-bold: 700;
+
+	/* Global colors */
+	--color-text-primary: #1f1f1f;
+	--color-text-secondary: #5f6b7a;
+	--color-bg-page: #f5f7fb;
+	--color-bg-surface: #ffffff;
+	--color-border: #e5e7eb;
+	--color-focus: rgba(17, 24, 39, 0.14);
+	--color-error: #c62828;
+
+	/* Global layout */
+	--container-width: 1200px;
+	--container-padding: 20px;
+}
